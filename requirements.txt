@@ -1,10 +1,6 @@
-streamlit
-PyPDF2
-PyMuPDF
-transformers
-torch
+streamlit==1.20.0
+torch==2.0.1
+transformers==4.30.0
 nltk
-Pillow
-matplotlib
-networkx
-scikit-learn
+PyPDF2
+
