@@ -1,7 +1,10 @@
 streamlit
 PyPDF2
+PyMuPDF
 transformers
 torch
 nltk
-networkx
+Pillow
 matplotlib
+networkx
+scikit-learn
